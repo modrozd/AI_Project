@@ -7,4 +7,4 @@ Useful WIP links:
 * https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470
 
 Useful links for understanding data:
-https://www.youtube.com/watch?v=_CCUWdAaQoA
+* https://www.youtube.com/watch?v=_CCUWdAaQoA
